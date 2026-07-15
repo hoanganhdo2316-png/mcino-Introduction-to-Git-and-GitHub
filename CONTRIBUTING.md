@@ -2,6 +2,7 @@
 
 All contributions, bug reports, bug fixes, documentation improvements,
 enhancements, and ideas are welcome.
+We appreciate all forms of contribution, no matter how small.
 
 ## How to contribute
 1. Fork the repository.
