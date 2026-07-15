@@ -1,3 +1,5 @@
+# Introduction to Git and GitHub – Final Project
+Dự án hoàn thành khóa học "Introduction to Git and GitHub" của Đỗ Văn Hoàng Anh.
 # Introduction to Git and GitHub
 
 ## Simple Interest Calculator
